@@ -1,4 +1,4 @@
-" A robust multi stage technique for image binarization of degraded historical documents "
+# A robust multi stage technique for image binarization of degraded historical documents.
 # How to run ?
 
 <1 Input> that correspond to filenames of:
