@@ -16,11 +16,17 @@ Example Run:
 Please cite the paper that describes the package:
 
 @inproceedings{boudraa2017robust,
-  title={A robust multi stage technique for image binarization of degraded historical documents},
-  author={Boudraa, Omar and Hidouci, Walid Khaled and Michelucci, Dominique},
-  booktitle={2017 5th International Conference on Electrical Engineering-Boumerdes (ICEE-B)},
-  pages={1--6},
-  year={2017},
-  organization={IEEE}}
 
+  title={A robust multi stage technique for image binarization of degraded historical documents},
+  
+  author={Boudraa, Omar and Hidouci, Walid Khaled and Michelucci, Dominique}, 
+  
+  booktitle={2017 5th International Conference on Electrical Engineering-Boumerdes (ICEE-B)}, 
+  
+  pages={1--6},
+  
+  year={2017}, 
+  
+  organization={IEEE}}
+  
 <ALL RIGHTS RESERVED>
